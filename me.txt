@@ -1,5 +1,1 @@
-{{#user}
-Name: Anurag Gupta
-Skills: HTML, CSS, JS, Next.js
-Email: anuraggupta5906@gmail.com
-{{/user}}
+
